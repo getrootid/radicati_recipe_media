@@ -1,0 +1,28 @@
+name: 'Radicati Media'
+description: 'Sets up base config for media in a Radicati project'
+type: 'Media'
+install:
+  - file
+  - focal_point
+  - imageapi_optimize
+  - imageapi_optimize_tinypng
+  - link
+  - media_entity_download
+  - image
+  - responsive_image
+  - media
+  - media_library
+  - media_library_edit
+config:
+  import:
+    link: "*"
+    file: "*"
+    image: "*"
+    focal_point: "*"
+    imageapi_optimize: "*"
+    media_entity_download: "*"
+    imageapi_optimize_tinypng: "*"
+    responsive_image: "*"
+    media: "*"
+    media_library: "*"
+    media_library_edit: "*"
