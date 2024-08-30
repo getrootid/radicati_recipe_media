@@ -11,6 +11,7 @@
   "require": {
     "drupal/focal_point": "*",
     "drupal/imageapi_optimize": "*",
+    "drupal/imageapi_optimize_tinypng": "*",
     "drupal/media_bulk_upload": "*",
     "drupal/media_entity_download": "*",
     "drupal/media_library_edit": "*"
