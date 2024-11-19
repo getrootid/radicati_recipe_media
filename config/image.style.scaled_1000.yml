@@ -2,6 +2,8 @@ uuid: 092796cb-b8ad-4480-8214-3bf0546355d3
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: FioDbd_ZfPXyBIKCpMPBL7HP--b_CqFK3JftL4oKl2c
 name: scaled_1000
 label: 'Scaled 1000'
 effects:

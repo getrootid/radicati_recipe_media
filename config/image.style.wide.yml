@@ -3,7 +3,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: LswCVLg8z4Zk1u6pV1Dpj1qUj5YY2CQ7_ojx7bJQ8qk
+  default_config_hash: Dnu_-w2ivjY4rhZfcKg9rodOYZR0mKFylxHbfFKyvv4
 name: wide
 label: 'Wide (1090)'
 effects:
@@ -15,3 +15,4 @@ effects:
       width: 1090
       height: null
       upscale: false
+pipeline: __default__

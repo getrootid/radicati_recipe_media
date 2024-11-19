@@ -6,7 +6,7 @@ dependencies:
     module:
       - media_library
 _core:
-  default_config_hash: 7qJqToD1OQLAyeswpmg7M0LRxQlw1URQkJDWUJCnmR8
+  default_config_hash: my5OK-9YJHPDTcpzGKyfBUXsTCc-h28VVjRTnFyrWJ0
 name: media_library
 label: 'Media Library thumbnail (220×220)'
 effects:
@@ -18,3 +18,4 @@ effects:
       width: 220
       height: 220
       upscale: false
+pipeline: __default__

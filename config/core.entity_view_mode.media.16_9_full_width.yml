@@ -5,8 +5,9 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: uQuVS37ZG_IK3MXmmtliZGSq8_tt9UO9Z46_2-MEtjQ
+  default_config_hash: 2vH_gz2tzXS_5CmgfEFXEzK0Ad_hIxiet-q1k5-3B3s
 id: media.16_9_full_width
 label: '16:9 Full Width'
+description: ''
 targetEntityType: media
 cache: true

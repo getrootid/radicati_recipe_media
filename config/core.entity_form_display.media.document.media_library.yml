@@ -7,7 +7,7 @@ dependencies:
     - field.field.media.document.field_media_document
     - media.type.document
 _core:
-  default_config_hash: dcpfpqyLXOSGpulacMAJW3H-G34_LeNsjdfxd1_oCfY
+  default_config_hash: r4WgDMJ27psWw6rQ_am8QecESuGm2fNw7MyIuxvotwY
 id: media.document.media_library
 targetEntityType: media
 bundle: document

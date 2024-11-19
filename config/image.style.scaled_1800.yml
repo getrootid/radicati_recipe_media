@@ -2,6 +2,8 @@ uuid: 0275175a-8279-4664-9ce9-8f2393927744
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: Lm0ryXOGsPxWypK04Ygp_wVEX6hbrpYfLr-lqwH9lr4
 name: scaled_1800
 label: 'Scaled 1800'
 effects:

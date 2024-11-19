@@ -14,7 +14,7 @@ third_party_settings:
     enabled: false
     allow_custom: false
 _core:
-  default_config_hash: gUaDZKMQD3lmLKWPn727X3JHVdKJ525g4EJCCcDVAqk
+  default_config_hash: QZK8_x9JCEQw3jgl9XE_fq2oS8jmPWIky0x6uqFJ8RE
 id: media.remote_video.4_3_half_width
 targetEntityType: media
 bundle: remote_video

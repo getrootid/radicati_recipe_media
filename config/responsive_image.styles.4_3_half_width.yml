@@ -9,6 +9,8 @@ dependencies:
     - image.style.4_3_350x262
     - image.style.4_3_500x375
     - image.style.4_3_750x562
+_core:
+  default_config_hash: gMzv-cp-t15SDX2SmVXxhRfwn4EWoW20KvtVTHJReto
 id: 4_3_half_width
 label: '4:3 Half Width'
 image_style_mappings:

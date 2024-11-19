@@ -2,6 +2,8 @@ uuid: 6c0d4fce-59fd-437a-8fa0-632f5daddc72
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: BsCzAplNd6OQ6nPjLgfEewQnKV0mEx3EOqvQ7kPFzNg
 name: scaled_600
 label: 'Scaled 600'
 effects:

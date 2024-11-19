@@ -8,7 +8,8 @@ dependencies:
     - media.type.icon
   module:
     - image
-    - path
+_core:
+  default_config_hash: d4gVPrJHy1iKEpe3EOxrLsoIO6tG0RD4KwGkME_CVGA
 id: media.icon.default
 targetEntityType: media
 bundle: icon

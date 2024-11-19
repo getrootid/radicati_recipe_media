@@ -9,6 +9,8 @@ dependencies:
     - image.style.16_9_350x197
     - image.style.16_9_500x281
     - image.style.16_9_750x422
+_core:
+  default_config_hash: aJEt8ZFf2LqoAisLFkypnjhIT5LTE2Yeq6v1150OhF4
 id: 16_9_half_width
 label: '16:9 Half Width'
 image_style_mappings:

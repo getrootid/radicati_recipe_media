@@ -7,6 +7,8 @@ dependencies:
     - media.type.icon
   module:
     - image
+_core:
+  default_config_hash: 8v3fDVYt6i-s4hL1KnlKwnOPPJqa--9A6K_nATl1F88
 id: media.icon.field_media_image
 field_name: field_media_image
 entity_type: media

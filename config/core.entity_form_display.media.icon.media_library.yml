@@ -9,6 +9,8 @@ dependencies:
     - media.type.icon
   module:
     - image
+_core:
+  default_config_hash: vt2JZNJr3QbuYb8x-gqj_tpN7AR7QDS03H1iEf-GbAM
 id: media.icon.media_library
 targetEntityType: media
 bundle: icon

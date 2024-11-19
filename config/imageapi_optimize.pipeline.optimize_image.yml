@@ -2,6 +2,8 @@ uuid: 11c0fac9-a721-4b81-9abf-5dee4b14b0b0
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: o9P-xDdWBQ69pIUlrRwRMm4O5dGUEE1UbImv87v71zo
 name: optimize_image
 label: 'Optimize Image'
 processors: {  }

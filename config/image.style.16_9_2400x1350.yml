@@ -5,7 +5,7 @@ dependencies:
   module:
     - focal_point
 _core:
-  default_config_hash: nXg2iWoKUi_jcO7MIzdQPB4jM0_8LLm9vV5fJLi95vo
+  default_config_hash: dpM1zZC5eSmHLXKX8lUFY7NSwKBuelp-RZjCVZ9JexY
 name: 16_9_2400x1350
 label: '16:9 2400x1350'
 effects:

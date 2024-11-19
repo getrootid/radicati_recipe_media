@@ -2,6 +2,8 @@ uuid: d5e9b84e-a538-42c4-ab9b-2dcdc73790dc
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: MfzAMx40BK3vZgncf-CcNweUg7IibGPC9Dy85n40pEA
 name: scaled_1400
 label: 'Scaled 1400'
 effects:

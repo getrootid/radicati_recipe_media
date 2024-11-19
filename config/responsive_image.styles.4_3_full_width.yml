@@ -9,6 +9,8 @@ dependencies:
     - image.style.4_3_350x262
     - image.style.4_3_500x375
     - image.style.4_3_750x562
+_core:
+  default_config_hash: Dqv9T6bedAlz7RAs8I3c2fVViNsGo-r1BY3s774E5T8
 id: 4_3_full_width
 label: '4:3 Full Width'
 image_style_mappings:
