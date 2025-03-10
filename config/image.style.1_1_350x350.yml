@@ -1,10 +1,20 @@
 uuid: dfa28685-53d6-47b5-8e9f-4df841a16e95
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  module:
+    - focal_point
 _core:
-  default_config_hash: mEt0U0DOny9oaMCILAiSh0HEvippgkWOYVGs8Gh0CQA
+  default_config_hash: 5G9NA9Ibt8ZSD48sgIcIS_lDg9rNrfbQUc3BgDnv_bo
 name: 1_1_350x350
 label: '1:1 350x350'
-effects: {  }
+effects:
+  e4fb7e3f-c76b-449c-ae9b-4cc5d1a79b2b:
+    uuid: e4fb7e3f-c76b-449c-ae9b-4cc5d1a79b2b
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 350
+      height: 350
+      crop_type: focal_point
 pipeline: optimize_image
