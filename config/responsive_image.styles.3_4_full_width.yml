@@ -1,0 +1,29 @@
+uuid: 76392712-f91d-49bf-b568-eab933b745b3
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.3_4_1000x1333
+    - image.style.3_4_1500x2000
+    - image.style.3_4_2400x3200
+    - image.style.3_4_350x467
+    - image.style.3_4_500x667
+    - image.style.3_4_750x1000
+id: 3_4_full_width
+label: '3:4 Full Width'
+image_style_mappings:
+  -
+    image_mapping_type: sizes
+    image_mapping:
+      sizes: 100vw
+      sizes_image_styles:
+        - 3_4_1000x1333
+        - 3_4_1500x2000
+        - 3_4_2400x3200
+        - 3_4_350x467
+        - 3_4_500x667
+        - 3_4_750x1000
+    breakpoint_id: responsive_image.viewport_sizing
+    multiplier: 1x
+breakpoint_group: responsive_image
+fallback_image_style: 3_4_350x467

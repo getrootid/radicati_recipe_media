@@ -1,0 +1,18 @@
+uuid: 7b1bdedd-ad7f-4fb2-a4eb-a30cea0e912a
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: 3_4_750x1000
+label: '3:4 750x1000'
+effects:
+  feb00981-0f0d-4532-b6d3-90f2ddac443c:
+    uuid: feb00981-0f0d-4532-b6d3-90f2ddac443c
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 750
+      height: 1000
+      crop_type: focal_point
+pipeline: optimize_image

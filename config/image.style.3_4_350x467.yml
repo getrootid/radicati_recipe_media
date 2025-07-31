@@ -1,0 +1,18 @@
+uuid: 10f9c518-0268-4c25-9e9f-12344cbed219
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: 3_4_350x467
+label: '3:4 350x467'
+effects:
+  790bf7c0-3c4c-4459-bca3-4dbf3764a7ce:
+    uuid: 790bf7c0-3c4c-4459-bca3-4dbf3764a7ce
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 350
+      height: 467
+      crop_type: focal_point
+pipeline: optimize_image

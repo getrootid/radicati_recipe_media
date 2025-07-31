@@ -1,0 +1,18 @@
+uuid: e7d2f3d7-b618-4a10-8114-b6fc1af650bf
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: 3_4_2400x3200
+label: '3:4 2400x3200'
+effects:
+  b41d089f-bfa4-4808-8302-c7453ee942df:
+    uuid: b41d089f-bfa4-4808-8302-c7453ee942df
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 2400
+      height: 3200
+      crop_type: focal_point
+pipeline: optimize_image
