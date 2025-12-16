@@ -6,7 +6,7 @@ dependencies:
     module:
       - responsive_image
 _core:
-  default_config_hash: kfewRZ2mh9fL3_pZ8lPdjdmPgszzdSUo8sAyGQjvLoI
+  default_config_hash: sgAvrtgR2SUNOl10Ux9kYmAyHhqLldV0GXmDSwKcYeA
 name: max_1300x1300
 label: 'Max 1300x1300'
 effects:

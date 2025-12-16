@@ -13,6 +13,8 @@ install:
   - media
   - media_library
   - media_library_edit
+  - decorative_image_widget
+  - paragraphs
 config:
   import:
     link: "*"
@@ -20,9 +22,10 @@ config:
     image: "*"
     focal_point: "*"
     imageapi_optimize: "*"
-    media_entity_download: "*"
     imageapi_optimize_tinypng: "*"
     responsive_image: "*"
     media: "*"
     media_library: "*"
     media_library_edit: "*"
+    decorative_image_widget: "*"
+    paragraphs: "*"

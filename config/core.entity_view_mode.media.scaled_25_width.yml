@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: HX6WoYMQLHBovttE-tthI201WgL_uAHmEuziK1VRTqU
+  default_config_hash: uPUOa9ed6iCNuusmaDtuaZm3DZTlTEGlDoOMVos8oFs
 id: media.scaled_25_width
 label: 'Scaled 25% Width'
 description: ''

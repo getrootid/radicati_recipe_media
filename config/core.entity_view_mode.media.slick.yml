@@ -8,7 +8,7 @@ dependencies:
     module:
       - slick
 _core:
-  default_config_hash: R7E_a_prwimixKpyeGxMF5RFzhS5SYBxnhl_s9N7oe0
+  default_config_hash: EKULmWvZYT0_bYw3INXhk7dCaBI-HDte4Cmp9S0nZOI
 id: media.slick
 label: 'Slick carousel'
 description: ''

@@ -8,7 +8,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: cV2A7VaywNgGLbLMxZFzKEs2zlpQO8CZ9nlX80QMDQQ
+  default_config_hash: psMNccwsvvincsyhj86i0ntL2rPpGc2TW1yT9mjZCeI
 id: media.remote_video.default
 targetEntityType: media
 bundle: remote_video

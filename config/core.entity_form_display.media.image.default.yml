@@ -7,9 +7,11 @@ dependencies:
     - image.style.thumbnail
     - media.type.image
   module:
+    - decorative_image_widget
     - image
+    - path
 _core:
-  default_config_hash: 7tbUeMl6XYJAYKOHT0zNsfr7Tss3SRCH10t2V17-Xck
+  default_config_hash: OOIQ4z5-LElDhDSZ4k7ba7iBUMwBRDzKCtsI46ZsYr0
 id: media.image.default
 targetEntityType: media
 bundle: image
@@ -28,7 +30,9 @@ content:
     settings:
       progress_indicator: throbber
       preview_image_style: thumbnail
-    third_party_settings: {  }
+    third_party_settings:
+      decorative_image_widget:
+        use_decorative_checkbox: true
   path:
     type: path
     weight: 30

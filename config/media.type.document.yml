@@ -3,7 +3,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 13PUsnqWB_UQPH2fOsv3NwAcQWJfxN4FQFB-VsID0gA
+  default_config_hash: M-xEeoKbtiLzj7AyUuMgSrGPjy5Toyk7Rkk_2rPtw1I
 id: document
 label: Document
 description: 'An uploaded file or document, such as a PDF.'

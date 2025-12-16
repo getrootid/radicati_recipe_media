@@ -11,7 +11,7 @@ dependencies:
     module:
       - media
 _core:
-  default_config_hash: ADy_oQUwTP_Pc67Yvp9CczP5aDYreubDB5s2KcgRxbw
+  default_config_hash: maemHWYOUaA0-KKWeARUC1BnaDwgigfWijzrVx7Lqgk
 id: media.image.field_media_image
 field_name: field_media_image
 entity_type: media
@@ -31,11 +31,11 @@ settings:
   max_resolution: ''
   min_resolution: ''
   alt_field: true
-  alt_field_required: true
+  alt_field_required: false
   title_field: false
   title_field_required: false
   default_image:
-    uuid: null
+    uuid: ''
     alt: ''
     title: ''
     width: null

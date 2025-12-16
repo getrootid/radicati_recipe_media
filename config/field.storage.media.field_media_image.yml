@@ -10,7 +10,7 @@ dependencies:
     module:
       - media
 _core:
-  default_config_hash: VE8-IDw5O7bhGEZmVzpr1pIHsIQ8FSmCCcDA02ciAgY
+  default_config_hash: yNZnBO9qpr0UPy3NdnMGM1GeR-3lQiP3v12pehsT7Ks
 id: media.field_media_image
 field_name: field_media_image
 entity_type: media
@@ -18,10 +18,10 @@ type: image
 settings:
   target_type: file
   display_field: false
-  display_default: false
+  display_default: true
   uri_scheme: public
   default_image:
-    uuid: null
+    uuid: ''
     alt: ''
     title: ''
     width: null

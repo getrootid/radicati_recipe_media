@@ -10,7 +10,7 @@ dependencies:
     - image.style.16_9_500x281
     - image.style.16_9_750x422
 _core:
-  default_config_hash: vHA-patPlDLKUMCiAZeMB1-yt_Qx0uRrd8nZA652cq4
+  default_config_hash: fWjKHHaaG5s86xXdjV6kEw0PTaMY7DcK_XLoXMs-fBg
 id: 16_9_full_width
 label: '16:9 Full Width'
 image_style_mappings:

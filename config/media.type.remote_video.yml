@@ -3,7 +3,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: ezg4eTK6ZOkmlZHov9POuJnr0JQpxUkCqE2Y1s9bokU
+  default_config_hash: Lx8S31e8-qFwZm94cJiVzYXr4yaXY4WAEZ54GYP3FQM
 id: remote_video
 label: 'Remote video'
 description: 'A remotely hosted video from YouTube or Vimeo.'
