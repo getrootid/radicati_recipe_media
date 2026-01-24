@@ -8,7 +8,22 @@
       "name": "Jason Mickela"
     }
   ],
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "enyo/dropzone",
+        "version": "6.0.0-beta.2",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/dropzone/dropzone/releases/download/v6.0.0-beta.2/dist.zip",
+          "type": "zip"
+        }
+      }
+    }
+  ],
   "require": {
+    "drupal/dropzonejs": "^2.11",
     "drupal/focal_point": "*",
     "drupal/imageapi_optimize": "*",
     "drupal/imageapi_optimize_tinypng": "*",
@@ -16,6 +31,8 @@
     "drupal/media_entity_download": "*",
     "drupal/media_library_edit": "*",
     "drupal/decorative_image_widget": "*",
-    "drupal/paragraphs": "*"
+    "drupal/paragraphs": "*",
+    "enyo/dropzone": "^6.0@beta",
+    "wikimedia/composer-merge-plugin": "^2.0"
   }
 }
