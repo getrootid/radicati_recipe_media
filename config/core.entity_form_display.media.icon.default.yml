@@ -9,7 +9,7 @@ dependencies:
   module:
     - image
 _core:
-  default_config_hash: LpnGi3nhAZO7jKngHuvuL04ubu9R2-XJhFrSnUel14g
+  default_config_hash: V6MJwDyOve66jnOORCo8F6r5hn3G1Os-_08VutTT2Ss
 id: media.icon.default
 targetEntityType: media
 bundle: icon

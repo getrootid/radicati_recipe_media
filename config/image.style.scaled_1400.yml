@@ -3,7 +3,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 4vJsjqWXw6Y6uncUwuL1BX_8_qOnOybvBgVsRKafDBE
+  default_config_hash: vKnoS4Je4Q2ICFjxbAHZoVRZde8iF293ShodSbykTLo
 name: scaled_1400
 label: 'Scaled 1400'
 effects:

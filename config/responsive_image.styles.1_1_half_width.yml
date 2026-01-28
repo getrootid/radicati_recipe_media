@@ -10,7 +10,7 @@ dependencies:
     - image.style.1_1_500x500
     - image.style.1_1_750x750
 _core:
-  default_config_hash: Mm1DHr71KSdMTnW5_6xW9IBeqlCzytnm0-YsjmwHdJ8
+  default_config_hash: 8KGtspFnLPjLUOJ4pWT-egLobcCyo9LTopsZDYjP96I
 id: 1_1_half_width
 label: '1:1 Half Width'
 image_style_mappings:

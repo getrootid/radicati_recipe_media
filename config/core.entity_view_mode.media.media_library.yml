@@ -8,7 +8,7 @@ dependencies:
     module:
       - media_library
 _core:
-  default_config_hash: H1V3tqft5vDYZatCN67xJE44rGQwEHZcHoep4ki9zYM
+  default_config_hash: UGD-84BmzW_rcQSXzzL2JQ8BpzBaYhEyzFR-LeMTygQ
 id: media.media_library
 label: 'Media library'
 description: ''

@@ -8,7 +8,7 @@ dependencies:
     module:
       - media_library
 _core:
-  default_config_hash: S3l-wI9GZVeagiU-5nE9Un-P2AvsTfMUdnq5Aaj1vBU
+  default_config_hash: Z-5ARXA9tAT5L_ZUnBINq9PDdupLVeYtdIWknUfc7AE
 id: media.media_library
 label: 'Media library'
 description: 'Media library form mode.'

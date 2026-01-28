@@ -10,7 +10,7 @@ dependencies:
     - image.style.4_3_500x375
     - image.style.4_3_750x562
 _core:
-  default_config_hash: Dwwjatn8eRWKhFcr4wDYIYBRxVklH9TuKlvLRzrCtaQ
+  default_config_hash: Hc-QPx-ApZXy-gdcXcjIq1IRTyWd7Gou6nLrgPmzXYk
 id: 4_3_half_width
 label: '4:3 Half Width'
 image_style_mappings:

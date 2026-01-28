@@ -10,7 +10,7 @@ dependencies:
     - image.style.scaled_400
     - image.style.scaled_600
 _core:
-  default_config_hash: W_Vc5kyVWy9H91IyAlBbrkLQOudtSqD2ZofMEET2FrM
+  default_config_hash: 3C-2q93JyR1u0BiZZ-qmjB60mpW2nEWH2nu4yB7HMYg
 id: scaled_25_width
 label: 'Scaled 25% Width'
 image_style_mappings:

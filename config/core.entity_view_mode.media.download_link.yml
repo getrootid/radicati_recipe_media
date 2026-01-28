@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: x9kBZR2LC8HivJ40yOShp0J_Sb0P5DTqPuo7eh_TUJA
+  default_config_hash: 5413s15niBGTy5sRPYGEJNl7HqdTdBZGKJVJDd59kvg
 id: media.download_link
 label: 'Download Link'
 description: ''

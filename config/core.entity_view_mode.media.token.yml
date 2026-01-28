@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: hY-UfucnNMKoxp17zPijuYJCmPXTG5ra9LHZBYGzwzU
+  default_config_hash: W3XJfK-hKg02-zyH-o-d9JqiOfsIGssKT_No8MkDuhE
 id: media.token
 label: Token
 description: ''

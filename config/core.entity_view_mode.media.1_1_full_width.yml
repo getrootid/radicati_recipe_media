@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: ip-uqEdogzdTIqEfWWcN9CIAXKnFIQ9wB-4wi9R41nE
+  default_config_hash: pbiU9SR0lZUJ3DL8-_e_VaYknlga3vl2HYWLZBCl-zo
 id: media.1_1_full_width
 label: '1:1 Full Width'
 description: ''

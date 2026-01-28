@@ -11,7 +11,7 @@ dependencies:
     module:
       - media
 _core:
-  default_config_hash: StPpE-SAnnu93bbu3I62OURgtGLwRQzPl7w7G77dQPo
+  default_config_hash: yVfof4lOGLKewgdNBcmxL-NowrJAcIXWS-a1BnQMFvw
 id: media.document.field_media_document
 field_name: field_media_document
 entity_type: media

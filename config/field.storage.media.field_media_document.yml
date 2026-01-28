@@ -9,7 +9,7 @@ dependencies:
     module:
       - media
 _core:
-  default_config_hash: xvP0qtaZvZ_ilEwsHLhM9OOfzxBn9mbbrBGlbKa26Us
+  default_config_hash: JGOnR4lBTCMIXeyRvIXbmy-WSkuPOLwxxHYBxoxLxM8
 id: media.field_media_document
 field_name: field_media_document
 entity_type: media

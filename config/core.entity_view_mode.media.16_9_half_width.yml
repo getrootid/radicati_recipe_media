@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: dVXjRF821aF_ce7HY-_eM0cxbRrpb0S4GbLRRMHIJKA
+  default_config_hash: WpGK_FEwd5frDXRTT-EtBfv_70ZPwRv_MwGlyewd_iY
 id: media.16_9_half_width
 label: '16:9 Half Width'
 description: ''

@@ -5,7 +5,7 @@ dependencies:
   module:
     - focal_point
 _core:
-  default_config_hash: '-_x3rFuNCBZ_LeGYcsJg5X0TOuCNvD28IJDjgfS1Qw4'
+  default_config_hash: jJaFjsgZZA6Fv3yOpGbBw18wW8StfcXLj1eItiO9tmw
 name: 4_3_1000x750
 label: '4:3 1000x750'
 effects:

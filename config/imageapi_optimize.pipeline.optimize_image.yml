@@ -3,7 +3,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: zQTkks7r5lLnXMIsw28VsQsbA8FDTSwaGJ07W7PChrk
+  default_config_hash: fXcvx3aYKiXEojrODgQvBI33mRlG2vv-6PYjtYR5LlQ
 name: optimize_image
 label: 'Optimize Image'
 processors: {  }

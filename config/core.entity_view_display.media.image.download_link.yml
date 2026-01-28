@@ -14,7 +14,7 @@ third_party_settings:
     enabled: false
     allow_custom: false
 _core:
-  default_config_hash: ZotAP8lK_JqgFCG5a-B2BBpmfqQnNmxIZGOJk8BluSk
+  default_config_hash: 6dmG2QGXFPNDw_-cLkBZffZ1g6eirw2dVIv-SHyenZs
 id: media.image.download_link
 targetEntityType: media
 bundle: image

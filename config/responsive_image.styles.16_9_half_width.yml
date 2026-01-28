@@ -10,7 +10,7 @@ dependencies:
     - image.style.16_9_500x281
     - image.style.16_9_750x422
 _core:
-  default_config_hash: x75Xn-BvxRcFtLfSgRRvj86Dhihd9ABfB77aerh9ldY
+  default_config_hash: nu-rL_UUtFKlAa81RGot2uWd6IMtXzmjzywgNbGS5iA
 id: 16_9_half_width
 label: '16:9 Half Width'
 image_style_mappings:

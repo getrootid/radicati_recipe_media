@@ -6,7 +6,7 @@ dependencies:
     module:
       - responsive_image
 _core:
-  default_config_hash: fIcvKe4gW5mwb2fikU-e2uQcJRV7nZHukO0zqA0840s
+  default_config_hash: kRlTzYJQSmp5aj7AW0VEdVuF9tArvA2deOO-XXpG4lQ
 name: max_325x325
 label: 'Max 325x325'
 effects:

@@ -3,7 +3,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: zx39Kik3oGmMSGcvS2spec18zoo4crUvcTy0vXyZuww
+  default_config_hash: tWUK5yrAbyvnAbna_p1TzwA6fWgDnWcSP0fIDDxURcE
 id: icon
 label: Icon
 description: 'Use to represent an icon or logo.'

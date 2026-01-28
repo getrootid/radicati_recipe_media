@@ -9,9 +9,8 @@ dependencies:
   module:
     - decorative_image_widget
     - image
-    - path
 _core:
-  default_config_hash: OOIQ4z5-LElDhDSZ4k7ba7iBUMwBRDzKCtsI46ZsYr0
+  default_config_hash: h1VKFNmGpyRaJw6D1oOSysdvDb6TxRIISrdQS_Dk3Zo
 id: media.image.default
 targetEntityType: media
 bundle: image
