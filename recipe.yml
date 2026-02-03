@@ -1,31 +1,36 @@
-name: 'Radicati Media'
-description: 'Sets up base config for media in a Radicati project'
-type: 'Media'
+name: "Radicati Media"
+description: "Sets up base config for media in a Radicati project"
+type: "Media"
 install:
+  - decorative_image_widget
+  - dropzonejs
+  - dropzonejs_eb_widget
   - file
   - focal_point
+  - image
   - imageapi_optimize
   - imageapi_optimize_tinypng
   - link
-  - media_entity_download
-  - image
-  - responsive_image
   - media
+  - media_bulk_upload
+  - media_bulk_upload_dropzonejs
+  - media_entity_download
   - media_library
   - media_library_edit
-  - decorative_image_widget
   - paragraphs
+  - responsive_image
 config:
   import:
-    link: "*"
+    decorative_image_widget: "*"
+    dropzonejs: "*"
     file: "*"
-    image: "*"
     focal_point: "*"
+    image: "*"
     imageapi_optimize: "*"
     imageapi_optimize_tinypng: "*"
-    responsive_image: "*"
+    link: "*"
     media: "*"
     media_library: "*"
     media_library_edit: "*"
-    decorative_image_widget: "*"
     paragraphs: "*"
+    responsive_image: "*"
